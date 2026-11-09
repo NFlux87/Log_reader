@@ -1,0 +1,13 @@
+2026-10-25 09:00:01 INFO Application started
+2026-10-25 09:00:02 INFO Configuration loaded
+2026-10-25 09:00:03 WARNING Disk usage at 80%
+2026-10-25 09:00:04 ERROR Failed to connect to database
+2026-10-25 09:00:05 INFO Database connection restored
+2026-10-25 09:00:06 INFO User login successful
+2026-10-25 09:00:07 WARNING Login attempt from unknown IP
+2026-10-25 09:00:08 ERROR Authentication failed
+2026-10-25 09:00:09 INFO User received an ERROR notification
+2026-10-25 09:00:10 INFO Background task started
+2026-10-25 09:00:11 ERROR File not found
+2026-10-25 09:00:12 WARNING Memory usage at 85%
+2026-10-25 09:00:13 INFO Application shutting down
